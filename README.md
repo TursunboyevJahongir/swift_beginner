@@ -1,7 +1,8 @@
 # Swift
 
-- `let` conatants.
-- `var` variables.(int,double,float,string,bool)
+- `Let` conatants.
+- `Var` variables.(int,double,float,string,bool)
 - `Operators` (Arithmetic,Terminology...)
-- `Conditioinals` (if,ternal,switchS)
+- `Conditionals` (if,ternal,switchS)
+- `Loop` (for,while,repeatWhile)
 
