@@ -1,4 +1,5 @@
 # Swift
 
 - `let` conatants.
-- `var` vareables.(int,double,float,string,bool)
+- `var` variables.(int,double,float,string,bool)
+

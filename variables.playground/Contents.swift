@@ -1,8 +1,12 @@
 import Darwin
 var number:Int = 10
 
-var a = 2
+var a = 2.2
 var b = 3
+
+print(Int(a)+b)//5
+
+print(Double(b)+a)//5,2
 
 Int.max
 Int.min
@@ -48,23 +52,3 @@ if boolean {
 else{
     print("false")
 }
-
-// check whether a number is positive, negative, or 0.
-
-let n = 0
-
-if (n > 0) {
-    print("Number is positive.")
-}
-
-else if (n < 0) {
-    print("Number is negative")
-}
-
-else {
-    print("Number is 0.")
-}
-
-
-
-
