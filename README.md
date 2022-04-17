@@ -5,4 +5,5 @@
 - `Operators` (Arithmetic,Terminology...)
 - `Conditionals` (if,ternal,switchS)
 - `Loop` (for,while,repeatWhile)
+- `Tuple`
 
