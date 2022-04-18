@@ -7,3 +7,4 @@
 - `Loop` (for,while,repeatWhile)
 - `Tuple`
 - `Optional` (nil)
+- `Array`
