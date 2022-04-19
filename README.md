@@ -8,3 +8,4 @@
 - `Tuple`
 - `Optional` (nil)
 - `Array`
+- `Set`
