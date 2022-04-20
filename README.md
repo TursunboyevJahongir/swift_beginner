@@ -9,3 +9,5 @@
 - `Optional` (nil)
 - `Array`
 - `Set`
+
+- `Functions`
