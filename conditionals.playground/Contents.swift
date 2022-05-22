@@ -1,3 +1,4 @@
+import Darwin
 var action: String
 
 var number = 5
@@ -11,10 +12,7 @@ if number > 0 {
 }
 
 /** ## multiple ternary*/
-action = number > 0 ? "plus"
-:number < 0
-? "minus"
-:"zerro"
+action = number > 0 ?"plus":number < 0 ?"minus":"zerro"
 
 action = (number % 2 == 1 ? "Odd" : "Even")
 
@@ -40,3 +38,14 @@ switch age {
     default:
         print("How old are you")
 }
+
+let x=1
+
+if x>0 {
+    print("plus")
+}else {
+    print("minus")
+}
+
+x > 0 ?print("plus"):print("minus")
+
